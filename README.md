@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some projects to learn and improve my skills
 - 🌱 I’m studying at Rocketseat on my way to certification
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: I'm physically training to be able to dunk 🏀
+- ⚡ Fun fact: I'm physically training to dunk 🏀
 
   <a href="https://github.com/victorschlindwein">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorschlindwein&layout=compact&langs_count=7&theme=dark"/>
