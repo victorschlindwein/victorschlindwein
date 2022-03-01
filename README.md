@@ -1,7 +1,7 @@
 ### Hi there I'm Victor, but you call me Vitao. 👋
 
 - 🔭 I’m currently working on some projects to learn and improve my skills
-- 🌱 I’m studying at Rocketseat on my way to certification
+- 🌱 I’m studying at Rocketseat on my way to Node certification
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I'm physically training to dunk 🏀
 
