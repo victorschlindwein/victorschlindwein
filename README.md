@@ -1,6 +1,6 @@
 ### Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 I'm working as a QA Analist
+- 🔭 I'm working as a Quality Assurance Analyst (QA)
 - 🌱 Studying automated tests
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: Basketball fan 🏀
