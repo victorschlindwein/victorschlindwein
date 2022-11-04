@@ -1,9 +1,9 @@
 ### Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 I’m currently working on some projects to learn and improve my skills
-- 🌱 I’m studying at Rocketseat on my way to Node certification
+- 🔭 I'm working as a QA Analist
+- 🌱 Studying automated tests
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: I'm physically training to dunk 🏀
+- ⚡ Fun fact: Basketball fan 🏀
 
   <a href="https://github.com/victorschlindwein">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorschlindwein&layout=compact&langs_count=7&theme=dark"/>
