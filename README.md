@@ -1,9 +1,8 @@
 ### Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 I'm working as a Quality Assurance Analyst (QA)
-- 🌱 Studying automated tests
-- 😄 Pronouns: He / His
-- ⚡ Fun fact: Basketball fan 🏀
+- 🔭 I work as a QA Engineer at Hiper (Linx SA / StoneCo)
+- 🌱 Studying automated tests with Cypress
+- ⚡ Fun fact: NBA fan 🏀
 
   <a href="https://github.com/victorschlindwein">
   
