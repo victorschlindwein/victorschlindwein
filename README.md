@@ -6,7 +6,6 @@
 - ⚡ Fun fact: Basketball fan 🏀
 
   <a href="https://github.com/victorschlindwein">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorschlindwein&layout=compact&langs_count=7&theme=dracula"/>
   
   
   
