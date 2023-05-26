@@ -10,7 +10,9 @@
   
   
   
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victorschlindwein&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorschlindwein&theme=github-dark"/>
+  
+  
 
   
   #
