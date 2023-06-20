@@ -2,7 +2,7 @@
 
 - 🔭 I work as a QA Engineer at Hiper (Linx SA / StoneCo)
 - 🌱 Studying automated tests with Cypress
-- ⚡ Fun fact: NBA fan 🏀
+- ⚡ Fun fact: NBA Fan 🏀
 
   <a href="https://github.com/victorschlindwein">
   
