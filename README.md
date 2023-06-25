@@ -1,6 +1,6 @@
 ### Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 I work as a QA Engineer at Hiper (Linx SA / StoneCo)
+- 🔭 I work as a QA Engineer
 - 🌱 Studying automated tests with Cypress
 - ⚡ Fun fact: NBA Fan 🏀
 
