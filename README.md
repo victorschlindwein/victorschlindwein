@@ -1,7 +1,7 @@
 ### Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 I work as a QA Engineer
-- 🌱 Studying automated tests with Cypress
+- 🔭 I work as a QA Engineer with focus on test automation
+- 🌱 Passion for automated tests.
 - ⚡ Fun fact: NBA Fan 🏀
 
   <a href="https://github.com/victorschlindwein">
