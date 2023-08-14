@@ -3,6 +3,8 @@
 - 🔭 I work as a QA Engineer with focus on test automation
 - 🌱 Passion for automated tests.
 - ⚡ Fun fact: NBA Fan 🏀
+- 🗣️ Ask me about: Cypress
+- 📖 Studying: Java Ecosystem (Rest Assured, Selenium...)
 
   <a href="https://github.com/victorschlindwein">
   
