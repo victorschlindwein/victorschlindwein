@@ -4,7 +4,7 @@
 - 🌱 Passion for automated tests.
 - ⚡ Fun fact: NBA Fan 🏀
 - 🗣️ Ask me about: Cypress
-- 📖 Studying: Java Ecosystem (Rest Assured, Selenium...)
+- 📖 Studying: .NET
 
   <a href="https://github.com/victorschlindwein">
   
