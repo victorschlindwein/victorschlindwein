@@ -1,19 +1,25 @@
-### Hi there I'm Victor, but you call me Vitao. 👋
+# Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 I work as a QA Engineer with focus on test automation
-- 🌱 Passion for automated tests.
+- 🔭 I worked as a QA Engineer with focus on test automation
+- 🌱 Passion for coding and learning new stuff
+- 🗣️ Ask me about: QA, Cypress, Automated tests
+- 📖 Studying: .NET C#
 - ⚡ Fun fact: NBA Fan 🏀
-- 🗣️ Ask me about: Cypress
-- 📖 Studying: .NET
 
-  <a href="https://github.com/victorschlindwein">
-  
-  
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=victorschlindwein&theme=github-dark"/>
- 
-  
+  <a href="https://github.com/victorschlindwein"></a>
 
-### Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/victorschlindwein/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:victorwilbert@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=victorschlindwein&theme=highcontrast)
+
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorschlindwein&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+# Connect with me:
+
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/Dizzysch/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/victorschlindwein/)
+
+# TECHS:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
