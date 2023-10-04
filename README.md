@@ -1,8 +1,8 @@
 # Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 I worked as a QA Engineer with focus on test automation
+- 🔭 I worked as a QA Engineer with focus on test automation. Now Iam aiming in a developer career .NET.
 - 🌱 Passion for coding and learning new stuff
-- 🗣️ Ask me about: QA, Cypress, Automated tests
+- 🗣️ Ask me about: QA, Cypress, Automated tests, JavaScript
 - 📖 Studying: .NET C#
 - ⚡ Fun fact: NBA Fan 🏀
 
