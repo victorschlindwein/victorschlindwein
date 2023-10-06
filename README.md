@@ -4,7 +4,6 @@
 - 🌱 Passion for coding and learning new stuff
 - 🗣️ Ask me about: QA, Cypress, Automated tests, JavaScript
 - 📖 Studying: .NET C#
-- ⚡ Fun fact: NBA Fan 🏀
 
   <a href="https://github.com/victorschlindwein"></a>
 
