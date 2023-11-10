@@ -1,8 +1,7 @@
 # Hi there I'm Victor, but you call me Vitao. 👋
 
-- 🔭 Software .NET Developer.
+- 🔭 Software Developer.
 - 🌱 Passion for coding and learning new stuff
-- 🗣️ Ask me about: QA, Cypress, Automated tests, JavaScript
 - 📖 Studying: .NET C#
 
   <a href="https://github.com/victorschlindwein"></a>
