@@ -1,7 +1,7 @@
 # Hi there I'm Victor, but you call me Vitao. 👋
 
 - 🔭 Software Developer.
-- 📚 Here you gonna find my codes, projects, drafts and a lot of random stuff that I crated while was learning, thinking and having fun.
+- 📚 Here you gonna find my projects, drafts and a lot of random stuff that I crated while was learning, thinking and having fun.
 - 🌱 Growing knowledges.
 - 📖 Studying: .NET C#.
 
