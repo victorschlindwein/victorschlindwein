@@ -1,8 +1,9 @@
 # Hi there I'm Victor, but you call me Vitao. 👋
 
 - 🔭 Software Developer.
-- 🌱 Passion for coding and learning new stuff
-- 📖 Studying: .NET C#
+- 📚 Here you gonna find my codes, projects, drafts and a lot of random stuff that I crated while was learning, thinking and having fun.
+- 🌱 Growing knowledges.
+- 📖 Studying: .NET C#.
 
   <a href="https://github.com/victorschlindwein"></a>
 
