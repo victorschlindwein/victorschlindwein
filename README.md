@@ -3,8 +3,7 @@
 - 🔭 Software Developer.
 - 📖 Studying: .NET C#.
 - 🌱 Growing knowledges.
-- 📚 Here you gonna find my projects, drafts and a lot of random stuff that I crated while was learning, thinking and having fun.
-
+- 📚 Welcome to my portfolio
 
   <a href="https://github.com/victorschlindwein"></a>
 
@@ -12,13 +11,11 @@
 
   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorschlindwein&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-# Connect with me:
+## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/victorschlindwein/)
 
-# TECHS:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=spring)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+## Techs:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
