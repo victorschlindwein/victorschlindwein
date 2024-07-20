@@ -1,7 +1,7 @@
 # Hi there I'm Victor, but you call me Vitao. 👋
 
 - 🔭 Software Developer.
-- 📖 Studying: .NET C#.
+- 📖 Studying: Node (Next.js).
 - 🌱 Growing knowledges.
 - 📚 Welcome to my portfolio
 
