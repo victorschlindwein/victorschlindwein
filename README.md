@@ -1,9 +1,9 @@
 # Hi there I'm Victor, but you call me Vitao. 👋
 
 - 🔭 Software Developer.
-- 📖 Studying: Node (Next.js).
+- 📖 Always studying something.
 - 🌱 Growing knowledges.
-- 📚 Welcome to my portfolio
+- 📚 Welcome to my portfolio.
 
   <a href="https://github.com/victorschlindwein"></a>
 
